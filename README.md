@@ -9,8 +9,8 @@
 
 <!--
 **Dheerajdoppalapudi/DheerajDoppalapudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning *React*
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **dheerudoppalapudi@gmail.com**
 - 😄 Know more about me : ...[https://drive.google.com/file/d/1A76CScnUh1xXTrwaCTnt_2K_vghUChNi/view?usp=sharing](My Resume)
 - ⚡ Fun fact: ...
--->
