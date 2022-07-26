@@ -59,3 +59,8 @@ Here are some ideas to get you started:
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerudoppalapudi&show_icons=true&locale=en&layout=compact" alt="DheerajDoppalapudi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajdoppalapudi&show_icons=true&locale=en" alt="dheerudoppalapudi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerudoppalapudi&" alt="DheerajDoppalapudi" /></p>
